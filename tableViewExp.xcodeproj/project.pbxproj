@@ -14,6 +14,8 @@
 		B889D8981B964E1400EE2C85 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B889D8971B964E1400EE2C85 /* Images.xcassets */; };
 		B889D89B1B964E1400EE2C85 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B889D8991B964E1400EE2C85 /* LaunchScreen.xib */; };
 		B889D8A71B964E1400EE2C85 /* tableViewExpTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B889D8A61B964E1400EE2C85 /* tableViewExpTests.m */; };
+		B889D8B11B9650EE00EE2C85 /* creme_brelee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B889D8B01B9650EE00EE2C85 /* creme_brelee.jpg */; };
+		B889D8B31B96515E00EE2C85 /* imgs@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B889D8B21B96515E00EE2C85 /* imgs@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		B889D8A01B964E1400EE2C85 /* tableViewExpTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tableViewExpTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B889D8A51B964E1400EE2C85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B889D8A61B964E1400EE2C85 /* tableViewExpTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tableViewExpTests.m; sourceTree = "<group>"; };
+		B889D8B01B9650EE00EE2C85 /* creme_brelee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = creme_brelee.jpg; sourceTree = "<group>"; };
+		B889D8B21B96515E00EE2C85 /* imgs@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "imgs@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,7 @@
 				B889D8891B964E1400EE2C85 /* tableViewExp */,
 				B889D8A31B964E1400EE2C85 /* tableViewExpTests */,
 				B889D8881B964E1400EE2C85 /* Products */,
+				B889D8B21B96515E00EE2C85 /* imgs@3x.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -86,6 +91,7 @@
 				B889D8911B964E1400EE2C85 /* ViewController.h */,
 				B889D8921B964E1400EE2C85 /* ViewController.m */,
 				B889D8941B964E1400EE2C85 /* Main.storyboard */,
+				B889D8B01B9650EE00EE2C85 /* creme_brelee.jpg */,
 				B889D8971B964E1400EE2C85 /* Images.xcassets */,
 				B889D8991B964E1400EE2C85 /* LaunchScreen.xib */,
 				B889D88A1B964E1400EE2C85 /* Supporting Files */,
@@ -200,7 +206,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B889D8961B964E1400EE2C85 /* Main.storyboard in Resources */,
+				B889D8B11B9650EE00EE2C85 /* creme_brelee.jpg in Resources */,
 				B889D89B1B964E1400EE2C85 /* LaunchScreen.xib in Resources */,
+				B889D8B31B96515E00EE2C85 /* imgs@3x.png in Resources */,
 				B889D8981B964E1400EE2C85 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
